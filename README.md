@@ -25,6 +25,8 @@ Para executar a API  basta executar:
 ```
 
 Em modo de desenvolvimento é recomendado executar utilizando o parâmetro reload, que reiniciará o servidor
+
+LINK GIT RUB PARA EXECUTAR O PROGRAMA EM BACK END: https://github.com/fabiomendes33/FULLSTACK-BASICO.git
 automaticamente após uma mudança no código fonte. 
 
 ```
